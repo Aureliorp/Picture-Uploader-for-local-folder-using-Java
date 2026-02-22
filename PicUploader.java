@@ -1,5 +1,4 @@
-//Kelompok desktop-app based picture uploader
-//Anggota : Noval rifqiansyah, Muhammad Aurelio Rafi, Kenzie Devanda
+// Aurelio Rafi
 
 import javax.swing.*;
 import java.io.File;
@@ -57,3 +56,4 @@ public class PicUploader extends JFrame {
         new PicUploader();
     }
 }
+
